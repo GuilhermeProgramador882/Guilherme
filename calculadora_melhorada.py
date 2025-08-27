@@ -60,3 +60,4 @@ while True:
         print("A multiplicação do", numero1,"e", numero2,"é", numero1*numero2)
     elif operação == 4:
         print("A divisão do", numero1,"e", numero2,"é", numero1/numero2)        
+    print("-------------------")
